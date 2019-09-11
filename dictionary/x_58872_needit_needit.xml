@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="4" type="collection">
+    <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="6" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Department" mandatory="true" max_length="40" name="u_department" type="string">
             <choice>
                 <element inactive_on_update="false" label="HR" sequence="0" value="HR"/>
@@ -11,5 +11,6 @@
         <element attributes="edge_encryption_enabled=true" choice="1" label="What Needed?" mandatory="true" max_length="40" name="u_what_needed" type="string">
             <choice/>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="When Needed" max_length="40" name="u_when_needed" type="glide_date_time"/>
     </element>
 </database>
