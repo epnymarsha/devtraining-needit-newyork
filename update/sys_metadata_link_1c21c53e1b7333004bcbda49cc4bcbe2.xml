@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>539c3ee65320330030c3ddeeff7b12c8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-04 19:28:33</sys_created_on>
+        <sys_id>539c3ee65320330030c3ddeeff7b12c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_page.uxframework_user</sys_name>
+        <sys_package display_value="UX Framework" source="com.glide.uxbuilder">3d3512511b4733004bcbda49cc4bcbaf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="sys_ux_page">466bc5b787e4130084aca571d5cb0b68</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_539c3ee65320330030c3ddeeff7b12c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-04 19:28:33</sys_updated_on>
+        <sys_user_role display_value="uxframework_user" name="uxframework_user">a47f56c15310330030c3ddeeff7b1295</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-13 18:30:36</sys_created_on>
+        <sys_id>1c21c53e1b7333004bcbda49cc4bcbe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_page.uxframework_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_1c21c53e1b7333004bcbda49cc4bcbe2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-13 18:30:36</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

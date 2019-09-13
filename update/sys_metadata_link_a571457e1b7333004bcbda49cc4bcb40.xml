@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>328fde18b32c3300d66e85d516a8dc7b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-28 17:34:23</sys_created_on>
+        <sys_id>328fde18b32c3300d66e85d516a8dc7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>$studio.sn_g_app_creator.app_creator</sys_name>
+        <sys_package display_value="Studio" source="sn_devstudio">5d9789f3eb51310007e48c1cf106fe9e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Studio">5d9789f3eb51310007e48c1cf106fe9e</sys_scope>
+        <sys_security_acl display_value="$studio">58dd2e3667401200b13375f557415a57</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_328fde18b32c3300d66e85d516a8dc7b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-28 17:34:23</sys_updated_on>
+        <sys_user_role display_value="sn_g_app_creator.app_creator" name="sn_g_app_creator.app_creator">c40b9e817710330001fb4311a8106187</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-13 18:32:03</sys_created_on>
+        <sys_id>a571457e1b7333004bcbda49cc4bcb40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>$studio.sn_g_app_creator.app_creator</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_a571457e1b7333004bcbda49cc4bcb40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-13 18:32:03</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

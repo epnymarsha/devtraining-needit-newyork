@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>db690372876323004caf66d107cb0b2b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-02-14 21:59:15</sys_created_on>
+        <sys_id>db690372876323004caf66d107cb0b2b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>asmt_metric_definition.survey_creator</sys_name>
+        <sys_package display_value="Assessment" source="com.snc.assessment_core">a82f46951bc333004bcbda49cc4bcbf3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="asmt_metric_definition">4bf658c5876323004caf66d107cb0b7f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_db690372876323004caf66d107cb0b2b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-14 23:08:55</sys_updated_on>
+        <sys_user_role display_value="survey_creator" name="survey_creator">ec1816c3871323004caf66d107cb0b1e</sys_user_role>
+        <transaction_id>27390732876323004caf66d107cb0b0f</transaction_id>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-13 18:30:59</sys_created_on>
+        <sys_id>7931893e1b7333004bcbda49cc4bcbac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>asmt_metric_definition.survey_creator</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_7931893e1b7333004bcbda49cc4bcbac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-13 18:30:59</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>
